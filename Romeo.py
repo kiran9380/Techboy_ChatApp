@@ -2,8 +2,8 @@ import socket
 import threading
 import os
 
-host = input("Enter Romeo IP address: ")
-port = int(input("Enter Romeo port number: "))
+host = input("Enter Romeo IP address ex : 0.0.0.0 : ")
+port = int(input("Enter Romeo port number ex : 4444 : "))
 
 # Create a socket for the server
 Techboy = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
