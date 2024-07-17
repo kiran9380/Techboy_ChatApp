@@ -1,7 +1,7 @@
 
 # Techboy_Chatting_App
 
-This is a Chatting Application, We Can Send Messages to Each Other
+This is a Chatting Application, I Created this using Python Socket and Threading. With this Application, We Can Send Messages to Each Other
 
 
 
