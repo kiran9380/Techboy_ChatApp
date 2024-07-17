@@ -5,8 +5,8 @@ import os
 # Create a socket for the client
 Kiran = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-host = input("Enter Romeo IP address: ")
-port = int(input("Enter Romeo port number: "))
+host = input("Enter Romeo IP address - ex: 0.tcp.ngrok.io : ")
+port = int(input("Enter Romeo port number - ex: 13005  : "))
 
 # Attempt to connect to the server
 while True:
