@@ -1137,6 +1137,6 @@ def recv_msg():
 
 ### Summary
 
-This project demonstrates a basic chat application with file transfer capabilities. The server (`romeo.py`) and client (`juliet.py`) use TCP sockets for communication. The ChatGPT assistant provided detailed explanations and documentation, helping to understand socket programming, message handling, and file transfers. Additionally,
+This project demonstrates a basic chat application with file transfer capabilities. The server (`romeo.py`) and client (`juliet.py`) use TCP sockets for communication.
 
 
